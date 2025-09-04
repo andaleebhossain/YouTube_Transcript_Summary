@@ -1,0 +1,6 @@
+gradio
+youtube-transcript-api
+transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+pytube
